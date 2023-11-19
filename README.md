@@ -3,15 +3,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pedrinho99k" alt="pedrinho99k" /></a> </p>
 
-- 👨‍💻 Estou trabalhando atualmente com [Projetos Pessoais](https://github.com/pedrinho99k/)
+- 👨‍💻 Estou trabalhando atualmente com - [Projetos Pessoais](https://github.com/pedrinho99k/)
 
-- 📖 Estou Estudando **Laravel, PHP, React, Node.js**
+- 📖 Estou Estudando - **[Laravel](https://laravel.com/), [PHP](https://www.php.net/), [React](https://react.dev/), [Node.js](https://nodejs.org/en/learn)**
 
-- 📁 Meus projetos [https://github.com/pedrinho99k/](https://github.com/pedrinho99k/)
+- 📁 Meus projetos - [https://github.com/pedrinho99k/](https://github.com/pedrinho99k/)
 
-- 📫 Contato **pedrofsh10@gmail.com**
+- 📫 Contato  - **pedrofsh10@gmail.com**
 
-- 📈 Experiências [HTML5, CSS3, JavaScript, PHP, Laravel, TailWind, BootStrap...](HTML5, CSS3, JavaScript, PHP, Laravel, TailWind, BootStrap...)
+- 📈 Experiências - **HTML5, CSS3, JavaScript, PHP, Laravel, TailWind, BootStrap...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
