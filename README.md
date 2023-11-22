@@ -1,4 +1,4 @@
-<span style="display:flex; align-items:center; height:100vh;">![GitHub profile picture](https://github.com/pedrinho99k.png)</span>
+<span style="display: block; align-items: center; height: 50vh; border-radius: 50%">![GitHub profile picture](https://github.com/pedrinho99k.png)</span>
 <h1 align="center">Olá 👋, Eu sou Pedro</h1>
 <h3 align="center">Desenvolvedor Full-Stack</h3>
 
