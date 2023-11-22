@@ -1,6 +1,7 @@
-<span style="display: block; align-items: center; height: 50vh; border-radius: 50%">![GitHub profile picture](https://github.com/pedrinho99k.png)</span>
 <h1 align="center">Olá 👋, Eu sou Pedro</h1>
 <h3 align="center">Desenvolvedor Full-Stack</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pedrinho99k&label=Profile%20views&color=0e75b6&style=flat" alt="pedrinho99k" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pedrinho99k" alt="pedrinho99k" /></a> </p>
 
