@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Eu sou Pedro</h1>
-<h3 align="center">Um Futuro Desenvolvedor Full-Stack</h3>
+<h3 align="center">Desenvolvedor Full-Stack</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pedrinho99k" alt="pedrinho99k" /></a> </p>
 
