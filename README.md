@@ -1,3 +1,4 @@
+![GitHub profile picture](https://github.com/pedrinho99k.png)
 <h1 align="center">Olá 👋, Eu sou Pedro</h1>
 <h3 align="center">Desenvolvedor Full-Stack</h3>
 
