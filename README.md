@@ -5,13 +5,11 @@
 
 - 👨‍💻 Estou trabalhando atualmente com - [Projetos Pessoais](https://github.com/pedrinho99k/)
 
-- 📖 Estou Estudando - **[Laravel](https://laravel.com/), [PHP](https://www.php.net/), [React](https://react.dev/), [Node.js](https://nodejs.org/en/learn)**
-
-- 📁 Meus projetos - [https://github.com/pedrinho99k/](https://github.com/pedrinho99k/)
+- 📖 Estou Estudando - **[React](https://react.dev/), [Node.js](https://nodejs.org/en/learn), [Blender](https://www.blender.org/)**
 
 - 📫 Contato  - **pedrofsh10@gmail.com**
 
-- 📈 Experiências - **HTML5, CSS3, JavaScript, PHP, Laravel, TailWind, BootStrap...**
+- 📈 Experiências - **HTML5, CSS3, JavaScript, PHP, Python, Laravel, TailWind, BootStrap...**
 
 <h3 align="left">Linguagens e Frameworks:</h3>
 <p align="left">
