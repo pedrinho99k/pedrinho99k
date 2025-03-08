@@ -3,14 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pedrinho99k" alt="pedrinho99k" /></a> </p>
 
-- 👨‍💻 Estou trabalhando atualmente com - [Projetos Pessoais](https://github.com/pedrinho99k/)
-
-- 📖 Estou Estudando - **[React](https://react.dev/), [Node.js](https://nodejs.org/en/learn), [Blender](https://www.blender.org/)**
-
-- 📫 Contato  - **pedrofsh10@gmail.com**
-
-- 📈 Experiências - **HTML5, CSS3, JavaScript, PHP, Python, Laravel, TailWind, BootStrap...**
-
 <h3 align="left">Linguagens e Frameworks:</h3>
 <p align="left">
 </p>
